@@ -1,7 +1,9 @@
 # Estructura-de-datos1-laboratorio2
 
 # Call Center Management System – Linked Lists in Python
-
+## Integrantes:
+- Carlos Isaac Romero Mendoza
+- Sergio Rafael Rada De La Cruz
 ## Descripción
 Este proyecto implementa un sistema de gestión de llamadas para un centro de atención telefónica,
 utilizando **listas enlazadas simples y listas enlazadas circulares**, aplicando conceptos de
